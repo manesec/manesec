@@ -37,4 +37,6 @@ Here are some ideas to get you started:
 
 If you want to find me just send me a email.
 
+best regards, and good luck!
+
 </div>

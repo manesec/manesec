@@ -4,7 +4,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=manesec&show_icons=true)
 
-I'm an ECE student, still studying at macau. Not sure why I'm very interested in pentest skill, I am also to learning about the red team technical. Give me some time to update the github, also I'm lazy. 🙃
+I'm an IMEL student, still studying at macau. Not sure why I'm very interested in pentest skill, I am also to learning about the red team technical. Give me some time to update the github, also I'm lazy. 🙃
 
 🌱 I’m currently .........  Sleeping.
 

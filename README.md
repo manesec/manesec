@@ -1,5 +1,7 @@
 ###  Hi, Here is manesec ! 🙋‍♂️
 
+[\[Github's Gists\]](https://gist.github.com/manesec)  [\[Blogspot\]](https://manesec.blogspot.com/)
+
 ---
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=manesec&show_icons=true)

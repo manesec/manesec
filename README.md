@@ -40,9 +40,10 @@ Here are some ideas to get you started:
 
 - [JSPWebShellCollection](https://github.com/manesec/JSPWebShellCollection) - Tomcat jsp backdoor.
 - [maketoolkit](https://github.com/manesec/maketoolkit) - Install some pen-testing tools on kali or debian like os.
+- [maketoolkit-db](https://github.com/manesec/maketoolkit-db) - Some pen-testing note, write and collection by me.
 - [HashSpray2.py](https://github.com/manesec/HashSpray2.py) - Add support pass the hash to Kerberos, fork on [HashSpray.py](https://github.com/cube0x0/HashSpray.py).
 - [SeLoadDriverPrivilegeExp](https://github.com/manesec/SeLoadDriverPrivilegeExp) - Exploit SeLoadDriverPrivilege for windows.
-
+- [Pentest-Binary](https://github.com/manesec/Pentest-Binary) - Some traditional exe used in penetration tests, may be a few years old.
 
 ---
 <div align="center">

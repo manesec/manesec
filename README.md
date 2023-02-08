@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 - [HashSpray2.py](https://github.com/manesec/HashSpray2.py) - Add support pass the hash to Kerberos, fork on [HashSpray.py](https://github.com/cube0x0/HashSpray.py).
 - [SeLoadDriverPrivilegeExp](https://github.com/manesec/SeLoadDriverPrivilegeExp) - Exploit SeLoadDriverPrivilege for windows.
 - [Pentest-Binary](https://github.com/manesec/Pentest-Binary) - Some traditional exe used in penetration tests, may be a few years old.
-
+- [Gmoverid-Calculator](https://github.com/manesec/Gmoverid-Calculator) - A tools help you to fast get gm/id curved.
 ---
 <div align="center">
 

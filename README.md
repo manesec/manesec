@@ -6,7 +6,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=manesec&show_icons=true)
 
-I'm an IMEL student still studying at macau, interested the pentest skill and to be a hacker. 
+I'm an IMEL student still studying at macau, interested the pentest skill and to be a hacker, but is a good man. 
 
 I am standing in the red team, so it need some time to learn about that.
 

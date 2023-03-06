@@ -45,7 +45,6 @@ Here are some ideas to get you started:
 - [SeLoadDriverPrivilegeExp](https://github.com/manesec/SeLoadDriverPrivilegeExp) - Exploit SeLoadDriverPrivilege for windows.
 - [Pentest-Binary](https://github.com/manesec/Pentest-Binary) - Some traditional exe used in penetration tests, may be a few years old.
 - [Gmoverid-Calculator](https://github.com/manesec/Gmoverid-Calculator) - A tools help you to fast get gm/id curved.
-- [better-chat-gpt-ppt](https://github.com/manesec/better-chat-gpt-ppt) - Another version of williamfzc / chat-gpt-ppt.
 ---
 <div align="center">
 

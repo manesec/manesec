@@ -6,11 +6,19 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=manesec&show_icons=true)
 
+<!--
+
 I'm an IMEL student still studying at macau, interested the pentest skill and to be a hacker, but is a good man. 
 
 I am standing in the red team, so it need some time to learn about that.
 
-The reality is that I am very busy, even sleep time is very limited, Give me some time to update the github, also I'm lazy. 🙃
+The reality is that I am very busy, even sleep time is very limited, Give me some time to update the github, also I'm lazy. 
+
+(This is what I want to say but I don't wanna say it 🙃) 
+
+-->
+
+A fake IMEL student study at macau.
 
 🌱 I’m currently .........  Sleeping.
 

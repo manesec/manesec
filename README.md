@@ -1,6 +1,6 @@
 ###  Hi, Here is manesec ! 🙋‍♂️
 
-[\[Github's Gists\]](https://gist.github.com/manesec)  [\[Blogspot\]](https://manesec.blogspot.com/)
+[\[Github's Gists\]](https://gist.github.com/manesec)  [\[New Blog\]](https://manesec.github.io/)  [\[Old Blogspot\]](https://manesec.blogspot.com/)
 
 ---
 

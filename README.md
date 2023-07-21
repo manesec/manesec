@@ -8,7 +8,7 @@
 
 <!--
 
-I'm an IMEL student still studying at macau, interested the pentest skill and to be a hacker, but is a good man. 
+I'm an IMEL student still studying at macau, interested the pentest skill and to be a hacker, (a good man?) . 
 
 I am standing in the red team, so it need some time to learn about that.
 
@@ -18,9 +18,11 @@ The reality is that I am very busy, even sleep time is very limited, Give me som
 
 -->
 
-A fake IMEL student study at macau.
+A fake IMEL student study at macau, a real red-team slepper.
 
 🌱 I’m currently .........  Sleeping.
+
+（雖然懶，但又不是很懶）
 
 --- 
 

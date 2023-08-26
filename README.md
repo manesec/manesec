@@ -57,7 +57,7 @@ Here are some ideas to get you started:
 - [Pentest-Binary](https://github.com/manesec/Pentest-Binary) - Some traditional exe used in penetration tests, may be a few years old.
 - [Gmoverid-Calculator](https://github.com/manesec/Gmoverid-Calculator) - A tools help you to fast get gm/id curved.
 - [Lubuntu-Docker-Desktop](https://github.com/manesec/Lubuntu-Docker-Desktop) - Running Lubuntu Desktop in Docker container, XRDP support only, Sound working over XRDP.
-- [snntorch_tutorial_zh] - 個人翻譯中文版的 SNN Torch 教學
+- [snntorch_tutorial_zh](https://github.com/manesec/snntorch_tutorial_zh) - 個人翻譯中文版的 SNN Torch 教學
 ---
 <div align="center">
 

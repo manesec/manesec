@@ -20,6 +20,8 @@ The reality is that I am very busy, even sleep time is very limited, Give me som
 
 A fake IMEL student study at macau, a real red-team slepper.
 
+Have half a year of working experience for Cybersecurity in Macau :P
+
 🌱 I’m currently .........  Sleeping.
 
 （雖然懶，但又不是很懶）

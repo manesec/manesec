@@ -50,7 +50,7 @@ Here are some ideas to get you started:
 
 ### 😪 Some project writing by me (may help you), 
 - [JSPWebShellCollection](https://github.com/manesec/JSPWebShellCollection) - Tomcat jsp backdoor.
-- [maketoolkit](https://github.com/manesec/maketoolkit) - 個人用滲透工具箱 - Install some pen-testing tools on kali or debian like os.
+- [maketoolkit](https://github.com/manesec/maketoolkit) - Install some pen-testing tools on kali or debian like os.
 - [maketoolkit-db](https://github.com/manesec/maketoolkit-db) - Some pen-testing note, write and collection by me.
 - [tools4mane](https://github.com/manesec/tools4mane) - Example script and tools to help pen-testing.
 - [HashSpray2.py](https://github.com/manesec/HashSpray2.py) - Add support pass the hash to Kerberos, fork on [HashSpray.py](https://github.com/cube0x0/HashSpray.py).

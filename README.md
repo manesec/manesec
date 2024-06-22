@@ -18,11 +18,15 @@ The reality is that I am very busy, even sleep time is very limited, Give me som
 
 -->
 
-A fake IMEL student study at macau, a real red-team slepper.
+A fake IMEL student (Graduating soon) study at macau, a real red-team slepper.
+
+I hope that in the future I can become a Cybersecurity-related industry, because interesting ...
 
 Have half a year of working experience for Cybersecurity in Macau :P
 
 🌱 I’m currently .........  Sleeping.
+
+（希望未來可以成爲網絡安全相關行業的人）
 
 （雖然懶，但又不是很懶）
 

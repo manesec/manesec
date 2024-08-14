@@ -4,4 +4,4 @@
 + [Hackthebox - Prolab - Dante](./HTB/Prolab/Dante.png)
 + [Hackthebox - Prolab - Offshore](./HTB/Prolab/OffShore.png)
 + [Hackthebox - Prolab - RastaLabs](./HTB/Prolab/RastaLabs.png)
-+ [Hackthebox - Prolab - Zephyr](./HTB/Prolab/Zephyr.png)
++ [Hackthebox - Prolab - Zephyr](./HTB/Prolab/zephyr.png)

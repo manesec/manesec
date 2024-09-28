@@ -7,20 +7,12 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=manesec&show_icons=true)
 
 <!--
-
-I'm an IMEL student still studying at macau, interested the pentest skill and to be a hacker, (a good man?) . 
-
-I am standing in the red team, so it need some time to learn about that.
-
-The reality is that I am very busy, even sleep time is very limited, Give me some time to update the github, also I'm lazy. 
-
-(This is what I want to say but I don't wanna say it 🙃) 
-
+haha there is nothing ...
 -->
 
-A fake IMEL student (Graduating soon) study at macau, a real red-team slepper.
+I'm a master's degree, IMEL student (~~fake IMEL student~~) Graduated at macau, now I am interesting Cybersecurity, a real red-team slepper.
 
-I hope that in the future I can become a Cybersecurity-related industry, because interesting ...
+I hope that in the future I can become a Cybersecurity-related industry, because of interesting ...
 
 Have half a year of working experience for Cybersecurity in Macau :P
 

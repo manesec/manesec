@@ -48,7 +48,7 @@ Here are some ideas to get you started:
 - [tmux-command-macros](https://github.com/manesec/tmux-command-macros) - Tmux macros plugin.
 - [JSPWebShellCollection](https://github.com/manesec/JSPWebShellCollection) - Tomcat jsp backdoor.
 - [maketoolkit](https://github.com/manesec/maketoolkit) - Install some pen-testing tools on kali or debian like os.
-- [maketoolkit-db](https://github.com/manesec/maketoolkit-db) - Some pen-testing note, write and collection by me.
+- [note4mane](https://github.com/manesec/note4mane) - Some pen-testing note, write and collection by me.
 - [tools4mane](https://github.com/manesec/tools4mane) - Example script and tools to help pen-testing.
 - [HashSpray2.py](https://github.com/manesec/HashSpray2.py) - Add support pass the hash to Kerberos, fork on [HashSpray.py](https://github.com/cube0x0/HashSpray.py).
 - [SeLoadDriverPrivilegeExp](https://github.com/manesec/SeLoadDriverPrivilegeExp) - Exploit SeLoadDriverPrivilege for windows.
@@ -75,4 +75,7 @@ If you want to find me just send me a email.
 best regards, and good luck!
   
 <a href="https://www.buymeacoffee.com/manesec" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+
+![](https://komarev.com/ghpvc/?username=manesec&color=lightgrey)
 </div>
+

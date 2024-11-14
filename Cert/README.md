@@ -10,11 +10,12 @@ log my certificate.
 + [Hackthebox - Prolab - RastaLabs](./HTB/Prolab/RastaLabs.png)
 + [Hackthebox - Prolab - Zephyr](./HTB/Prolab/zephyr.png)
 + [Hackthebox - Prolab - Solar](./HTB/Prolab/Solar.png)
++ [Hackthebox - Prolab - Alchemy](./HTB/Prolab/Alchemy.png)
 
-## Hackthebox Academy
+## Hackthebox Academy - Exam
 
 + [HTB Academy - CPTS](./HTB/Academy/CPTS.png)
 
-## Offsec
+## Offsec - Exam
 
 + [OFFSEC - PEN-200 - OSCP](./OFFSEC/oscp.png)

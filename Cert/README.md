@@ -11,6 +11,8 @@ log my certificate.
 + [Hackthebox - Prolab - Zephyr](./HTB/Prolab/zephyr.png)
 + [Hackthebox - Prolab - Solar](./HTB/Prolab/Solar.png)
 + [Hackthebox - Prolab - Alchemy](./HTB/Prolab/Alchemy.png)
++ [Hackthebox - Prolab - POO](./HTB/Prolab/POO.png)
++ [Hackthebox - Prolab - Hades](./HTB/Prolab/Hades.png)
 
 ## Hackthebox Academy - Exam
 

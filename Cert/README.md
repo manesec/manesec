@@ -19,6 +19,7 @@ Just log my certificate.
 ## Hackthebox Academy - Exam
 
 + [HTB Academy - CPTS](./HTB/Academy/CPTS.png)
++ [HTB Academy - CBBH](./HTB/Academy/CBBH.png)
 
 ## Offsec - Exam
 

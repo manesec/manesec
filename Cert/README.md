@@ -15,6 +15,7 @@ Just log my certificate.
 + [Hackthebox - Prolab - Hades](./HTB/Prolab/Hades.png)
 + [Hackthebox - Prolab - APTLabs](./HTB/Prolab/APTLabs.png)
 + [Hackthebox - Prolab - FullHourse](./HTB/Prolab/FullHouse.png)
++ [Hackthebox - Prolab - Odyssey](./HTB/Prolab/Odyssey.png)
 
 ## Hackthebox Academy - Exam
 

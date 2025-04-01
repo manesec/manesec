@@ -1,6 +1,10 @@
 # Some Certificate owned by me
 
-Just log my certificate.
+Just log my certificate. [@manesec](https://github.com/manesec).
+
+# Certificate of Completion
+
+Here are the certificates obtained by completing some of the stuff.
 
 ## Hackthebox - Prolab
 
@@ -17,11 +21,16 @@ Just log my certificate.
 + [Hackthebox - Prolab - FullHourse](./HTB/Prolab/FullHouse.png)
 + [Hackthebox - Prolab - Odyssey](./HTB/Prolab/Odyssey.png)
 
-## Hackthebox Academy - Exam
+# Certificate of Exam
+
+Here are the certificates obtained by examination.
+
+## Hackthebox Academy
 
 + [HTB Academy - CPTS](./HTB/Academy/CPTS.png)
 + [HTB Academy - CBBH](./HTB/Academy/CBBH.png)
 
-## Offsec - Exam
+## Offsec
 
 + [OFFSEC - PEN-200 - OSCP](./OFFSEC/oscp.png)
+

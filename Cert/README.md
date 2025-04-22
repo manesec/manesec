@@ -29,7 +29,7 @@ Here are the certificates obtained by examination.
 
 + [HTB Academy - CPTS](./HTB/Academy/CPTS.png)
 + [HTB Academy - CBBH](./HTB/Academy/CBBH.png)
-+ [HTB Academy - CBBH](./HTB/Academy/CAPE.png)
++ [HTB Academy - CAPE](./HTB/Academy/CAPE.png)
 
 ## Offsec
 

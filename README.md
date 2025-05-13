@@ -10,7 +10,7 @@
 haha there is nothing ...
 -->
 
-I'm a master's degree, IMEL student (~~fake IMEL student~~) Graduated at macau, now I am interesting Cybersecurity, a real red-team hecker and slepper.
+I'm a master's degree, IMEL student (~~fake IMEL student~~) Graduated at macau, now I am interesting Cybersecurity, a real red-team **hecker** and slepper.
 
 I hope that in the future I can become a Cybersecurity-related industry, because of interesting ...
 

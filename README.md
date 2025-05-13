@@ -66,17 +66,6 @@ Here are some ideas to get you started:
 
 ---
 
-### 📜 Certificate [See More](./Cert/)
-
-+ [HTB Academy - CPTS](./HTB/Academy/CPTS.png)
-+ [HTB Academy - CBBH](./HTB/Academy/CBBH.png)
-+ [HTB Academy - CAPE](./HTB/Academy/CAPE.png)
-+ [OFFSEC - PEN-200 - OSCP](./OFFSEC/oscp.png)
-+ [Altered Security - CRTE](./AS/CRTE.png)
-+ [Altered Security - CRTM](./AS/CRTM.png)
-
----
-
 <div align="center">
 
 ### Show some ❤️ by starring some of the repositories!

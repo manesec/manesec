@@ -10,7 +10,7 @@
 haha there is nothing ...
 -->
 
-I'm a master's degree, IMEL student (~~fake IMEL student~~) Graduated at macau, now I am interesting Cybersecurity, a real red-team slepper.
+I'm a master's degree, IMEL student (~~fake IMEL student~~) Graduated at macau, now I am interesting Cybersecurity, a real red-team hecker and slepper.
 
 I hope that in the future I can become a Cybersecurity-related industry, because of interesting ...
 
@@ -57,11 +57,23 @@ Here are some ideas to get you started:
 - [snntorch_tutorial_zh](https://github.com/manesec/snntorch_tutorial_zh) - 個人翻譯中文版的 SNN Torch 教學
 - [shellcodeloader4mane](https://github.com/manesec/shellcodeloader4mane) - A shellcode loader write by me, just for test.
 - [pipx4adtools](https://github.com/manesec/pipx4adtools) - Integration of some common pentesting tools on pipx for AD.
+- [pipx4tools](https://github.com/manesec/pipx4tools) - Integration of some common pentesting tools on pipx.
 ---
 
 ### 💾 Deprecated project
 
 - [Gmoverid-Calculator](https://github.com/manesec/Gmoverid-Calculator) - A tools help you to fast get gm/id curved.
+
+---
+
+### 📜 Certificate 
+
++ [HTB Academy - CPTS](./HTB/Academy/CPTS.png)
++ [HTB Academy - CBBH](./HTB/Academy/CBBH.png)
++ [HTB Academy - CAPE](./HTB/Academy/CAPE.png)
++ [OFFSEC - PEN-200 - OSCP](./OFFSEC/oscp.png)
++ [Altered Security - CRTE](./AS/CRTE.png)
++ [Altered Security - CRTM](./AS/CRTM.png)
 
 ---
 

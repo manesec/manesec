@@ -42,5 +42,5 @@ Here are the certificates obtained by examination.
 
 ## TryHackMe
 
-+ [Junior Penetation Tester (PT1)](./THM/PT1.png)
++ [TryHackMe - Junior Penetation Tester (PT1)](./THM/PT1.png)
 

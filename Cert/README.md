@@ -28,8 +28,9 @@ Here are the certificates obtained by examination.
 ## Hackthebox Academy
 
 + [HTB Academy - CPTS](./HTB/Academy/CPTS.png)
-+ [HTB Academy - CBBH](./HTB/Academy/CBBH.png)
++ [HTB Academy - CWES](./HTB/Academy/CWES.png)
 + [HTB Academy - CAPE](./HTB/Academy/CAPE.png)
++ [HTB Academy - CJCA](./HTB/Academy/CJCA.png)
 
 ## Offsec
 
@@ -43,4 +44,3 @@ Here are the certificates obtained by examination.
 ## TryHackMe
 
 + [TryHackMe - Junior Penetation Tester (PT1)](./THM/PT1.png)
-

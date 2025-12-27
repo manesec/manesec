@@ -31,6 +31,7 @@ Here are the certificates obtained by examination.
 + [HTB Academy - CWES](./HTB/Academy/CWES.png)
 + [HTB Academy - CAPE](./HTB/Academy/CAPE.png)
 + [HTB Academy - CJCA](./HTB/Academy/CJCA.png)
++ [HTB Academy - CWEE](./HTB/Academy/CWEE.png)
 
 ## Offsec
 

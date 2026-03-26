@@ -32,6 +32,7 @@ Here are the certificates obtained by examination.
 + [HTB Academy - CAPE](./HTB/Academy/CAPE.png)
 + [HTB Academy - CJCA](./HTB/Academy/CJCA.png)
 + [HTB Academy - CWEE](./HTB/Academy/CWEE.png)
++ [HTB Academy - CDSA](./HTB/Academy/CDSA.png)
 
 ## Offsec
 
@@ -45,3 +46,8 @@ Here are the certificates obtained by examination.
 ## TryHackMe
 
 + [TryHackMe - Junior Penetation Tester (PT1)](./THM/PT1.png)
+
+## Cyberwarfare Labs
+
++ [Cyberwarfare Labs - AD-RTS](./CWL/AD-RTS.png)
++ [Cyberwarfare Labs - WEB-RTA](./CWL/WEB-RTA.png)

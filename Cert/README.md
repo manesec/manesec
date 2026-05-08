@@ -41,6 +41,7 @@ Here are the certificates obtained by examination.
 
 + [Altered Security - CRTE](./AS/CRTE.png)
 + [Altered Security - CRTM](./AS/CRTM.png)
++ [Altered Security - CETP](./AS/CETP.png)
 
 ## TryHackMe
 

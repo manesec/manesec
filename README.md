@@ -4,8 +4,6 @@
 
 ---
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=manesec&show_icons=true)
-
 <!--
 haha there is nothing ...
 -->
@@ -16,31 +14,11 @@ I hope that in the future I can become a Cybersecurity-related industry, because
 
 Have half a year of working experience for Cybersecurity in Macau :P
 
-🌱 I’m currently .........  Sleeping.
+🌱 I’m currently .........  Sleeping and attacking the book.
 
 （希望未來可以成爲網絡安全相關行業的人）
 
-（雖然懶，但又不是很懶）
-
---- 
-
-### 🗨️ What language do I speak?
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manesec&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-<!--
-**manesec/manesec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-🔭 I’m currently working on ...
-🌱 I’m currently learning ...
-👯 I’m looking to collaborate on ...
-🤔 I’m looking for help with ...
-💬 Ask me about ...
-📫 How to reach me: ...
-😄 Pronouns: ...
-⚡ Fun fact: ...
--->
+（雖然懶，但確實很懶）
 
 ---
 
@@ -58,6 +36,12 @@ Here are some ideas to get you started:
 - [shellcodeloader4mane](https://github.com/manesec/shellcodeloader4mane) - A shellcode loader write by me, just for test.
 - [pipx4adtools](https://github.com/manesec/pipx4adtools) - Integration of some common pentesting tools on pipx for AD.
 - [pipx4tools](https://github.com/manesec/pipx4tools) - Integration of some common pentesting tools on pipx.
+---
+
+### ✨ MCP (Model Context Protocol)
+
+- [apiserpent-mcp](https://github.com/manesec/apiserpent-mcp) - MCP server that exposes Serpent API Deep Search as a single search tool over stdio. Agents get organic results plus related searches, ads, People Also Ask, and featured snippets from Google, Bing, Yahoo, DuckDuckGo, or Brave.
+
 ---
 
 ### 💾 Deprecated project
